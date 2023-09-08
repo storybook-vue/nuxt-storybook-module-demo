@@ -1,63 +1,9 @@
-# Nuxt 3 Minimal Starter
+# Storybook Nuxt-Module Demo
+Module will install storybook and run inside Nuxt App.
+## Integrated with devtools
+### Running dev process
+![image](https://github.com/chakAs3/nuxt-storybook-module-demo/assets/711292/b44bfccb-88e7-4a59-ad8e-6a128e4dece3)
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+### Storybook tab
+![image](https://github.com/chakAs3/nuxt-storybook-module-demo/assets/711292/a79780c0-91d7-483c-8836-bd5031a2ce49)
 
-## Setup
-
-Make sure to install the dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
