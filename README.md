@@ -7,3 +7,10 @@ Module will install storybook and run it inside Nuxt App.
 ### Storybook tab
 ![image](https://github.com/chakAs3/nuxt-storybook-module-demo/assets/711292/a79780c0-91d7-483c-8836-bd5031a2ce49)
 
+## Contacts :
+
+🔖 Mail: javachakir@gmail.com
+
+💬 Discord: ChakAs3
+
+🐦‍⬛ Twitter: [@ChakirQatab](https://twitter.com/ChakirQatab)
