@@ -9,7 +9,7 @@
 
 ## Contacts :
 
-🔖 Mail: javachakir@gmail.com
+🔖 Mail: dev@storybook-vue.com
 
 💬 Discord: ChakAs3
 
